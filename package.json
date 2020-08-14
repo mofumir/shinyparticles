@@ -1,0 +1,19 @@
+{
+  "name": "shinyparticles",
+  "version": "1.0.0",
+  "description": "My Little Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "tsc": "tsc",
+    "build": "webpack"
+  },
+  "author": "mofumir",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^8.0.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
